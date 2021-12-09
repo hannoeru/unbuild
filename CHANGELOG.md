@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.1](https://github.com/unjs/unbuild/compare/v0.6.3...v0.1.1) (2021-12-09)
+
+
+### Features
+
+* support alias and esbuild config ([681de2e](https://github.com/unjs/unbuild/commit/681de2e977b8c4626b0de5207721bf9c13defe07))
+
 ### [0.6.3](https://github.com/unjs/unbuild/compare/v0.6.2...v0.6.3) (2021-12-03)
 
 
